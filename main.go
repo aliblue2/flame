@@ -1,4 +1,4 @@
-package flame
+package main
 
 import (
 	"github.com/flame/handler"
